@@ -1,2 +1,2 @@
 # pleasantly-welcoming
-First step to www/
+It should be a pleasant welcome, shouldn't it?
